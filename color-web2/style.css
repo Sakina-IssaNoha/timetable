@@ -1,0 +1,388 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap&family=Inter:wght@100&family=Libre+Bodoni&family=Montserrat:wght@600&family=PT+Sans&family=Pacifico&family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap&family=Inter:wght@100&family=Libre+Bodoni&family=Montserrat:wght@600&family=Mulish:wght@200&family=PT+Sans&family=Pacifico&family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap&family=Inter:wght@100&family=Libre+Bodoni&family=Montserrat:wght@600&family=Mulish:wght@200&family=PT+Sans&family=Pacifico&family=Rubik:wght@300&family=Ubuntu:wght@300&display=swap');
+
+
+body{
+    background-color: #F1EAEA;
+    
+}
+
+.box1{
+    border: 1px solid #000;
+    height: 2700px;
+    width: 1100px;
+    margin-left: 7%;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    border: none;
+    
+}
+.head1{
+    margin-left:5% ;
+    margin-top: 12%;
+}
+
+ .container .imge{
+    width: 20px;
+    height: 20px;
+    margin-left: 5%;
+    display: inline;
+    color: #624F47;
+    margin-top: 15%;
+}
+
+.image{
+    margin-left: 15%;
+    margin-top: -40%;
+    /* background-image: url(/images/splash-removebg-preview.png); */
+    background-repeat: no repeat;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #AAA3A1;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+
+
+.navbar-links ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: -7%;
+
+}
+
+.navbar-links li{
+    list-style: none;
+    display: flex;
+    /* margin-left: 5%; */
+}
+
+.navbar-links li a {
+    text-decoration: none;
+    color: #8485A1;
+    padding: 1.7rem;
+    display: block;
+    justify-content: space-between;
+}
+
+.nav-links a{
+    color: #fff;
+}
+
+.button{
+    color: #fff;
+    background-color: #598BF1;
+    width: 90px;
+    height: 5px;
+    border-radius: 16px;
+    border: none;
+    /* margin-top: -15%; */
+}
+
+.button1{
+    background-color: #598BF1;
+    border-radius: 6px;
+    border: none;
+    width: 15%;
+    height: 45px;
+    color: #FFFFFF;
+    margin-bottom: 55px;
+    margin-left: -10%;
+    margin-top: -20%;
+}
+
+.icons{
+    display: flex;
+}
+
+.insta{
+    margin-left: 5%;
+    font-size: 1.5rem;
+    color: #FBBE59;
+    background-color: #FFFFFF;
+}
+
+.twitter{
+    margin-left: 5%;
+    font-size: 1.5rem;
+    color: #42A190;
+    background-color: #FFFFFF;
+    
+}
+
+.head{
+    /* border: 1px solid black; */
+    margin-top: -5%;
+    font-family: 'Libre Bodoni', serif;
+    font-size: x-large;
+    padding: 7px;
+    color: #361408;
+}
+
+.p1{
+    /* font-family: 'Mulish', sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    color: #C4C3C9;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.button2{
+    background-color: #43A091;
+    border-radius: 6px;
+    border: none;
+    width: 15%;
+    height: 45px;
+    color: #FFFFFF;
+    margin-bottom: 55px;
+    margin-left: 5%;
+}
+
+.row{
+    display: flex;
+    margin-left: 15%;
+    margin-top: -3%;
+    
+    
+}
+
+.numbers{
+    color: #442210;
+    font-size: xx-large;
+    margin-top: -10%;
+}
+
+.p4{
+    color: #736862;
+    margin-top: -25%;
+}
+.column{
+    border: 1px solid #FCFAFA;
+    padding: 70px;
+    border-radius: 6px;
+    background-color: #F1EAEA;
+    height: 40px;
+    
+}
+
+.slack{
+    color: #BBC2CA;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+  
+.logos{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.microsoft{
+    margin-top: 2%;
+}
+  
+.zoover{
+    margin-top: 5.5%;
+}
+
+.sec2{
+    padding: 2%;
+}
+
+.logo2{
+    display: flex;
+    margin-left: 45%;
+    
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: xx-large;
+    margin-left: 40%;
+}
+
+.row1{
+    display: flex;
+    margin-left: 7%;
+    /* justify-content: space-around; */
+    
+}
+
+.icon1 i{
+    font-size:30px ;
+    /* background-color: #fff; */
+    color: #000;
+}
+
+.icon2 i{
+    font-size: 30px;
+    color: #FDBE59;
+    /* color: #fff; */
+}
+
+.icon3 i{
+    font-size: 30px;
+    color: #598BF1; 
+    /* color: #FFFFFF; */
+}
+
+.column{
+    border: 1px solid #FCFAFA;
+    padding: 9%;
+    border-radius: 6px;
+}
+
+.column1{
+    background-color:#F5F9FA ;
+    /* border: black solid 1px; */
+    width: 300px;
+    margin: 0%;
+}
+
+.column2{
+    background-color:#43A091 ;
+    /* border: black solid 1px; */
+    width: 300px;
+    color: #F5F9FA;
+}
+
+.column3{
+    background-color:#F5F9FA ;
+    /* border: black solid 1px; */
+    width: 300px;
+    
+}
+
+.logo3{
+    display: flex;
+    margin-left: 55%;
+    margin-top: 10%;
+}
+
+.sentence{
+    margin-left: 55%;
+}
+
+.input{
+    margin-left: 33%;
+    padding: 20px;
+    border-radius: 20px;
+    /* border: none; */
+    display: flex;
+}
+
+.circle{
+    border: solid 1px black;
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    margin-left: -30%;
+    margin-top: 2.5%;
+}   
+
+.rightman{
+    margin-top: -45%;
+    margin-left: -13%;
+}
+
+.p2{
+    margin-left: 25%;
+}
+
+.input1 .input-two{
+    display: flex;
+    height: 20px;
+    width: 60%; 
+    margin-left: 20%;
+    padding: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: #43A091;
+    border: none;
+    
+}
+
+
+.head2{
+    margin-left:25% ;
+}
+
+.button1{
+    margin-top: -5%;
+    margin-left: 70%;
+    
+}
+
+.logo4{ 
+    padding: 40px;
+    margin-left: 12%;
+}
+
+.words2{
+    margin-left: 15%;
+    font-size: x-large;
+}
+
+.input3{
+    width: 200px;
+    margin-left:15%;
+   margin-top: -5%;
+   
+
+}
+#names{
+    width: 168%;
+    border-radius: 20px;
+    padding: 20px;
+    border: none;
+    background-color: #FFF8F8;
+}
+.four{
+    width: 200px;
+    margin-left:0.5% ;
+}
+#message{
+    width:150% ;
+    border-radius: 20px;
+    padding: 40px;
+    background-color: #FFF8F8;
+    border: none;
+    
+}
+
+.leftman{
+    margin-left: 30%;
+    margin-top: -38%;
+}
+
+.button3{
+    background-color: #598BF1;
+    border-radius: 6px;
+    border: none;
+    width: 15%;
+    height: 45px;
+    color: #FFFFFF;
+    margin-bottom: 55px;
+    margin-left: 15%;
+}
+
+.circle1{
+    margin-top: 2%;
+    
+}
+
+.circle2{
+    margin-top: 2%;
+}
+
+.circle3{
+    margin-top: 2%;
+}
